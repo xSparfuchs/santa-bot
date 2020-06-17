@@ -7,7 +7,7 @@ import random
 
 
 client = discord.Client()
-app_key = "NTIxNzUwMTQwNTA4MTc2Mzg0.DvA9hA._LYY0eXkFNimn3nBmMZaOb-PPfk"
+app_key = ""
 data = {}
 emojis = ["🎄", "🎁", "🔔", "⛄", "🔥", "🌟", "🎅", "🦌"]
 
